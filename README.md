@@ -13,15 +13,15 @@
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mobile+Developer.;B.S.+in+Computer+Science+Honors;Motivated+self-starter;troubleshooting+skills" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mobile+Developer+*+Software+Engineer+II;B.S.+in+Computer+Science+*+Honors" alt="Typing SVG" /></a> 
 </p>
 
 ### Mobile Developer * Software Engineer
  🎯 <b>OBJECTIVE </b> <br>
 Software Developer of 6+ years. 
-Motivated self-starter looking to leverage problem solving skills, troubleshooting skills, math
-knowledge, and visualization skills to grow in the field of analytics
-
+Motivated Mobile Software Developer with 6+ years of work experience& a technology enthusiast with a strong foundation in Computer Science. 
+Graduated with a B.S. in Computer Science from The University of Texas at Dallas in May 2017.
+Fun fact: Traveled to 26 countries
 
 
 <!--  The Language You Know -->
