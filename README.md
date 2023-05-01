@@ -16,7 +16,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Practicing+Data+Science+Enthusiast.;Pursued+Master's+in+Big+Data;Motivated+self-starter;troubleshooting+skills" alt="Typing SVG" /></a> 
 </p>
 
-### A Passioniate Big Data and Business Analytics
+### Mobile Developer * Software Engineer
  🎯 <b>OBJECTIVE </b> <br>
 Software Developer of 6+ years. 
 Motivated self-starter looking to leverage problem solving skills, troubleshooting skills, math
@@ -114,24 +114,22 @@ knowledge, and visualization skills to grow in the field of analytics
 
 	
 # EXPERIENCE
+	
+<h3><b>Shopify- Mobile Developer (Feb 2022 - present) </b> </h3> 
 
-<p><b>Software Developer </b> </p> 
+📌 Add support for bluetooth card readers to Shopify POS, using React Native Typescript and KMM<br>
 
-<p><b>Bank of America  (Aug 2017- Feb 2021)</b> <br>
+📌 Proficient in Git and GitHub for daily version control and collaboration needs <br>
 
-📌 Certified in MuleSoft Integration and API Associate, using Anypoint Studio IDE  <br>
+📌 Handle production issues during on-call shifts to maintain high levels of uptime and availability <br>
 
-📌 Set up CI/CD process for the Java codebase to use BitBucket, Jenkins, Artifactory, XLR from Subversion <br>
+📌 Skills: Git · React Native · Kotlin Multiplatform Mobile<br>
 
-📌 Used Java to code Middleware REST and SOAP web services on IDE, IBM Rational Application Developer<br>
+</p> 
 
-📌 Used SoapUI and Postman to call web REST and SOAP services<br>
 
-</p>
+<p><b>Microsoft - Software Engineer II (Jan 2022- Feb 2022)</b> </p> 
 
-<p><b>Software Engineer II</b> </p> 
-
-<p><b>Microsoft  (Jan 2022- Feb 2022)</b> <br>
 
 📌 Commerce and Ecosystem division (C+E) in the Cloud & AI group (powers commerce for key businesses like Azure, Office 365), Commerce Partner & Seller Experience team <br>
 
@@ -143,19 +141,20 @@ knowledge, and visualization skills to grow in the field of analytics
 
 </p> 
 
-<p><b>Mobile Developer - Payments and Hardware </b> </p> 
 
-<p><b>Shopify (Feb 2022 - present)</b> <br>
+<p><b>Bank of America - Software Developer (Aug 2017- Feb 2021)</b> </p> 
 
-📌 Add support for bluetooth card readers to Shopify POS, using React Native Typescript and KMM<br>
 
-📌 Proficient in Git and GitHub for daily version control and collaboration needs <br>
+📌 Certified in MuleSoft Integration and API Associate, using Anypoint Studio IDE  <br>
 
-📌 Handle production issues during on-call shifts to maintain high levels of uptime and availability <br>
+📌 Set up CI/CD process for the Java codebase to use BitBucket, Jenkins, Artifactory, XLR from Subversion <br>
 
-📌 Skills: Git · React Native · Kotlin Multiplatform Mobile<br>
+📌 Used Java to code Middleware REST and SOAP web services on IDE, IBM Rational Application Developer<br>
 
-</p> 
+📌 Used SoapUI and Postman to call web REST and SOAP services<br>
+
+</p>
+
 	
 	
 	
