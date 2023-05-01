@@ -159,9 +159,7 @@ Fun fact: Traveled to 26 countries
 	
 	
  
-# SOCIAL MEDIA - LET'S CONNECT:
-<b>Let's stay connected:<br>
-
+# LET'S CONNECT ON SOCIAL MEDIA:
 
 <!--  social links -->
 
