@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amberhasan&label=Profile%20views&color=0e75b6&style=flat" alt="amberhasan" /> </p>
 
 <div align="center">
-    <h1> Hi there, I’m Amber Hasan👋<a href="#"></h1>
+    <h1>Amber Hasan<a href="#"></h1>
 </div>
 
 <p align="center">
