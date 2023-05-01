@@ -19,7 +19,7 @@
 ### Mobile Developer * Software Engineer
  🎯 <b>OBJECTIVE </b> <br>
 Software Developer of 6+ years. 
-Motivated Mobile Software Developer with 6+ years of work experience& a technology enthusiast with a strong foundation in Computer Science. 
+Motivated Mobile Software Developer with 6+ years of work experience & a technology enthusiast with a strong foundation in Computer Science. 
 Graduated with a B.S. in Computer Science from The University of Texas at Dallas in May 2017.
 Fun fact: Traveled to 26 countries
 
