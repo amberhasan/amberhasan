@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Practicing+Data+Science+Enthusiast.;Pursued+Master's+in+Big+Data;Motivated+self-starter;troubleshooting+skills" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mobile+Developer.;B.S.+in+Computer+Science+Honors;Motivated+self-starter;troubleshooting+skills" alt="Typing SVG" /></a> 
 </p>
 
 ### Mobile Developer * Software Engineer
@@ -128,7 +128,7 @@ knowledge, and visualization skills to grow in the field of analytics
 </p> 
 
 
-<p><b>Microsoft - Software Engineer II (Jan 2022- Feb 2022)</b> </p> 
+<h3><b>Microsoft - Software Engineer II (Jan 2022- Feb 2022)</b> </h3> 
 
 
 📌 Commerce and Ecosystem division (C+E) in the Cloud & AI group (powers commerce for key businesses like Azure, Office 365), Commerce Partner & Seller Experience team <br>
@@ -142,7 +142,7 @@ knowledge, and visualization skills to grow in the field of analytics
 </p> 
 
 
-<p><b>Bank of America - Software Developer (Aug 2017- Feb 2021)</b> </p> 
+<h3><b>Bank of America - Software Developer (Aug 2017- Feb 2021)</b> </h3> 
 
 
 📌 Certified in MuleSoft Integration and API Associate, using Anypoint Studio IDE  <br>
@@ -160,7 +160,7 @@ knowledge, and visualization skills to grow in the field of analytics
 	
  
 # SOCIALS
-<b>Let's stay connected!<br>
+<b>Let's stay connected:<br>
 
 
 <!--  social links -->
