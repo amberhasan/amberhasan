@@ -18,7 +18,7 @@
 
 ### A Passioniate Big Data and Business Analytics
  🎯 <b>OBJECTIVE </b> <br>
-Practicing Data Science Enthusiast. Pursued Master's in Big Data and Business Analytics.
+Software Developer of 6+ years. 
 Motivated self-starter looking to leverage problem solving skills, troubleshooting skills, math
 knowledge, and visualization skills to grow in the field of analytics
 
@@ -109,66 +109,59 @@ knowledge, and visualization skills to grow in the field of analytics
 <!--  your information personal-->
 
 # EDUCATION
-<p><b>FOM Hochschule Essen, Germany </b> </p> 
-<p>🥇MSc Big Data and Business Analytics | Obtained 2.6 GPA  (February 2020 — November 2022)</p>
-
-<p><b>Dr. Babasaheb Ambedkar Marathwada University, India</b> </p> 
-<p>🥇Bachelor of Computer Application (March 2016 — April 2019)</p>
+<p><b>The University of Texas at Dallas </b> </p> 
+<p>🥇B.S. in Computer Science | Obtained 3.8 GPA  (Graduated: May 2017)</p>
 
 	
 # EXPERIENCE
 
-<p><b>Software Associate </b> </p> 
+<p><b>Software Developer </b> </p> 
 
-<p><b>✔Sina project solution Pvt.Ltd, Hyderabad, India  ( May 2019 — December 2019 )</b> <br>
+<p><b>Bank of America  (Aug 2017- Feb 2021)</b> <br>
 
-📌Developed and debugged a client-based management utility for initializing and monitoring.. <br>
+📌 Certified in MuleSoft Integration and API Associate, using Anypoint Studio IDE  <br>
 
-📌 In charge of developing & maintaining test plans and scenarios for various software products. . <br>
+📌 Set up CI/CD process for the Java codebase to use BitBucket, Jenkins, Artifactory, XLR from Subversion <br>
 
-📌Software Quality Assurance - Participated in the design and specifications reviews with the
-client and the development team.<br>
+📌 Used Java to code Middleware REST and SOAP web services on IDE, IBM Rational Application Developer<br>
 
-📌 Assisted the engineer in maintaining development and integration build databases and various
-application constraints in Power script and SQL.<br>
-
+📌 Used SoapUI and Postman to call web REST and SOAP services<br>
 
 </p>
 
+<p><b>Software Engineer II</b> </p> 
 
-# PROJECTS
+<p><b>Microsoft  (Jan 2022- Feb 2022)</b> <br>
 
-<p><b>Sales Insight Dashboard Projects  </b> </p> 
+📌 Commerce and Ecosystem division (C+E) in the Cloud & AI group (powers commerce for key businesses like Azure, Office 365), Commerce Partner & Seller Experience team <br>
 
+📌 Worked on developer and partner ecosystem across gaming, commercial, and productivity segments <br>
 
+📌 Core D365 CRM development using Power Platform<br>
 
-📌Defined The AIMS grid for Project. <br>
+📌 Developed Model Driven Apps and Canvas Apps on Power Platform <br>
 
-📌Preliminary insights were gathered by running queries on MYSQL <br>
+</p> 
 
-📌Performed ETL on Python using Panda’s library after establishing connect with MYSQL.<br>
+<p><b>Mobile Developer - Payments and Hardware </b> </p> 
 
-📌Built a sales insight Dashboard using Power BI.<br>
+<p><b>Shopify (Feb 2022 - present)</b> <br>
 
-<p><b>License Plate Object Recognition  </b> </p> 
+📌 Add support for bluetooth card readers to Shopify POS, using React Native Typescript and KMM<br>
 
+📌 Proficient in Git and GitHub for daily version control and collaboration needs <br>
 
+📌 Handle production issues during on-call shifts to maintain high levels of uptime and availability <br>
 
-📌Gathered data from Google Open Images Dataset.. <br>
+📌 Skills: Git · React Native · Kotlin Multiplatform Mobile<br>
 
-📌 Trained a machine learning custom object detection model to recognize license plate using
- YOLO <br>
-
-📌Extracted the License Plate Information from images to text using Tesseract OCR.<br>
-
-
-
-</p>
+</p> 
+	
+	
+	
  
-# LANGUAGE
-<b>📌English-Fluent <br>
-<b>📌German- Intermediate<br>
-<b>📌Marathi- Mother tongue<br>
+# SOCIALS
+<b>Let's stay connected!<br>
 
 
 <!--  social links -->
