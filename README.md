@@ -89,7 +89,6 @@ Fun fact: Traveled to 26 countries
 <div> 
 </div>
 
-# LET'S CONNECT ON SOCIAL MEDIA:
 
 <!--  social links -->
 
@@ -107,24 +106,4 @@ Fun fact: Traveled to 26 countries
 | Stats />                                                                                            | Streak />                                                                                                                                                                               | Languages />                                                                                                     
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atiq-ur&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=atiq-ur&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amberhasan&theme=gruvbox) |
-
-
-<!--  game -->
-
-## 🐛Github Magic Game
-
-<p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-
-<!--  Troffy -->
-## 🥇 Github Trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amberhasan" alt="amberhasan" /></a> </p>
-
-<!--  Github Status -->
-## 🎯 Github Status
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amberhasan&show_icons=true&locale=en&layout=compact" alt="amberhasan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amberhasan&show_icons=true&locale=en" alt="amberhasan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amberhasan&" alt="amberhasan" /></p>
 
