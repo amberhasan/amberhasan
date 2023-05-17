@@ -85,50 +85,7 @@ Fun fact: Traveled to 26 countries
 <p>🥇B.S. in Computer Science | Obtained 3.9 GPA  (Graduated: May 2017)</p>
 
 	
-# EXPERIENCE
-	
-<h3><b>Shopify- Mobile Developer (Feb 2022 - present) </b> </h3> 
 
-📌 Add support for bluetooth card readers to Shopify POS, using React Native Typescript and KMM<br>
-
-📌 Proficient in Git and GitHub for daily version control and collaboration needs <br>
-
-📌 Handle production issues during on-call shifts to maintain high levels of uptime and availability <br>
-
-📌 Skills: Git · React Native · Kotlin Multiplatform Mobile<br>
-
-</p> 
-
-
-<h3><b>Microsoft - Software Engineer II (Jan 2022- Feb 2022)</b> </h3> 
-
-
-📌 Commerce and Ecosystem division (C+E) in the Cloud & AI group (powers commerce for key businesses like Azure, Office 365), Commerce Partner & Seller Experience team <br>
-
-📌 Worked on developer and partner ecosystem across gaming, commercial, and productivity segments <br>
-
-📌 Core D365 CRM development using Power Platform<br>
-
-📌 Developed Model Driven Apps and Canvas Apps on Power Platform <br>
-
-</p> 
-
-
-<h3><b>Bank of America - Software Developer (Aug 2017- Feb 2021)</b> </h3> 
-
-
-📌 Certified in MuleSoft Integration and API Associate, using Anypoint Studio IDE  <br>
-
-📌 Set up CI/CD process for the Java codebase to use BitBucket, Jenkins, Artifactory, XLR from Subversion <br>
-
-📌 Used Java to code Middleware REST and SOAP web services on IDE, IBM Rational Application Developer<br>
-
-📌 Used SoapUI and Postman to call web REST and SOAP services<br>
-
-</p>
-
-	
-	
 <div> 
 </div>
 
