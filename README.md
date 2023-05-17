@@ -30,9 +30,6 @@ Fun fact: Traveled to 26 countries
 
 <table width="80%">
 <tr>
-    <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
-    </td>
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
     </td>
@@ -49,9 +46,6 @@ Fun fact: Traveled to 26 countries
     <td align='center' width="200">
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
-    </td>
      <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
     </td>
@@ -60,9 +54,6 @@ Fun fact: Traveled to 26 countries
 <tr>
     <td align='center' width="200">
         <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
   <td align='center' width="200">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
@@ -76,14 +67,8 @@ Fun fact: Traveled to 26 countries
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
     </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
-    </td>
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
-    </td>
-     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
     </td>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="90">
