@@ -90,16 +90,6 @@ Fun fact: Traveled to 26 countries
 </div>
 
 
-<!--  social links -->
-
-<p align="center">
-<a href="https://www.linkedin.com/in/#/"><img src="https://img.shields.io/badge/-amber%20hasan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:#@gmail.com"><img src="https://img.shields.io/badge/-amberhasan.gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/#/"><img src="https://img.shields.io/badge/-@amberhasan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://#.me/"><img src="https://img.shields.io/badge/-Portfolio-blueviolet?style=blueviolet&logo=appveyor&logoColor=white"/></a>
-<br>
-<a href="https://leetcode.com/#/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=amberhasan&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fatiq-ur&logo=leetcode&logoColor=yellow"/></a>
- </p>
 
 
 
